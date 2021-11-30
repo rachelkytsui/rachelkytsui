@@ -1,5 +1,6 @@
 👋 Hi, I’m Rachel Ka-Ying Tsui (@rachelkytsui)
 - 📍 Currently, I work as a postdoctoral researcher with [Dr. Reiko Mazuka](https://cbs.riken.jp/en/faculty/r.mazuka/) at [Laboratory for Language Development (RIKEN CBS)](https://lang-dev-lab.brain.riken.jp/index-english.html) in Japan.
+- 📝 I also volunteer at [Kotoboo](https://kotoboo.org/) where we write and share science-based article and comics about language learning in childhood.
 - 🔎 My research focuses on infant language acquisition, bilingualism, and cross-cultural differences.
 - 📊 One thing I enjoy most about research is analyzing and visualizing data.
 - 💻 I code with R programming language but also know SQL and am currently learning Python. I can also write [Praat](https://www.fon.hum.uva.nl/praat/) scripts for generating audio stimuli.

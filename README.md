@@ -5,6 +5,7 @@
 - 💻 I code with R programming language but also know SQL and am currently learning Python. I can also write [Praat](https://www.fon.hum.uva.nl/praat/) scripts for generating audio stimuli.
 - 🗣 I speak Cantonese (native), English, Japanese, and Mandarin Chinese.
 - 📫 You can reach me through my twitter [@rachelkytsui](https://twitter.com/rachelkytsui) or my email rachelkytsui [at] gmail.com
+- 🔗 You can also learn more about my works at [my personal website](https://rachelkytsui.netlify.app/).
 
 <!---
 rachelkytsui/rachelkytsui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

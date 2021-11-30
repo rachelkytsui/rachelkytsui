@@ -1,5 +1,5 @@
 👋 Hi, I’m Rachel Ka-Ying Tsui (@rachelkytsui)
-- 📍 Currently, I work as a postdoctoral researcher at Laboratory for Language Development (RIKEN CBS) in Japan.
+- 📍 Currently, I work as a postdoctoral researcher with [Dr. Reiko Mazuka](#https://cbs.riken.jp/en/faculty/r.mazuka/) at Laboratory for Language Development (RIKEN CBS) in Japan.
 - 🔎 My research focuses on infant language acquisition, bilingualism, and cross-cultural differences.
 - 📊 One thing I enjoy most about research is analyzing and visualizing data.
 - 📫 You can reach me through my twitter @rachelkytsui or my email rachelkytsui [at] gmail.com
